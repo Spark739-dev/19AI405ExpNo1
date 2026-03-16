@@ -92,3 +92,6 @@
 <H3>OUTPUT:</H3>
 
 <img width="1398" height="309" alt="image" src="https://github.com/user-attachments/assets/076457ff-c5ea-4a76-b7eb-7e38af9203f5" />
+
+## RESULT:
+Thus,the Developing AI Agent with PEAS Description is successfully implemented.
